@@ -13,3 +13,7 @@ Hi there! 👋 This is an interactive Markdown Previewer built as part of the JS
 
 ![Editor View](assets/editor.png)  
 _The Markdown Previewer_
+
+## Deployment Link
+
+You can try the app yourself here: [Markdown Previewer](https://codermodersd.github.io/cohort-md-assignment-2)
