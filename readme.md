@@ -1,6 +1,6 @@
 # Markdown Previewer
 
-Hi there! 👋 This is an interactive Markdown Previewer built as part of the JS cohort assignment.
+Hi there! This is an interactive Markdown Previewer built as part of the JS cohort assignment.
 
 ## Features
 
@@ -8,6 +8,8 @@ Hi there! 👋 This is an interactive Markdown Previewer built as part of the JS
 - Supports **bold**, _italic_, ~~strikethrough~~, and more.
 - Task lists with interactive checkboxes.
 - Blockquotes and proper list formatting.
+
+> Syntax highlighting is not working. If you like to contribute and fix it, feel free to make a pull request!
 
 ## Screenshots
 
